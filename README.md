@@ -158,12 +158,3 @@ Ce projet est sous licence MIT. Consultez le fichier [LICENSE](LICENSE) pour plu
 ```
 
 ---
-
-### **Instructions pour l’ajout sur GitHub**
-1. Ajoutez ce contenu dans un fichier `README.md` à la racine de votre projet.
-2. Commitez les changements :
-   ```bash
-   git add README.md
-   git commit -m "Ajout du fichier README"
-   git push origin main
-   ```
