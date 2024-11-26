@@ -52,9 +52,9 @@ cd jobrader
 ```
 
 ### **Étape 2 : Configuration du Frontend**
-1. Accédez au dossier `frontend` :
+1. Accédez au dossier `front-app` :
    ```bash
-   cd frontend
+   cd front-app
    ```
 2. Installez les dépendances :
    ```bash
@@ -73,9 +73,9 @@ cd jobrader
 ---
 
 ### **Étape 3 : Configuration du Backend**
-1. Accédez au dossier `backend` :
+1. Accédez au dossier `back-app` :
    ```bash
-   cd backend
+   cd back-app
    ```
 2. Installez les dépendances :
    ```bash
